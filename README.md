@@ -22,11 +22,11 @@ To use the `List` class, follow these steps:
 2. Ensure you have a C++ compiler that supports C++11 or later (e.g., GCC, Clang, MSVC).
 3. Compile the source code:
     ```bash
-    g++ -o ListProgram main.cpp List.cpp
+    make
     ```
 4. Run the program:
     ```bash
-    ./ListProgram
+    ./driver
     ```
 
 ## License
@@ -37,4 +37,4 @@ This project is open-source and available under the MIT License.
 - December 2024
 
 ## Contact
-For any questions or issues, feel free to reach out to me at [your email or GitHub link].
+For any questions or issues, feel free to reach out to me at minhviet0901@gmail.com.
